@@ -1,0 +1,14 @@
+C:\Users\drago\source\repos\TaskManagement\bin\Release\net10.0\TaskManagement.exe
+C:\Users\drago\source\repos\TaskManagement\bin\Release\net10.0\TaskManagement.deps.json
+C:\Users\drago\source\repos\TaskManagement\bin\Release\net10.0\TaskManagement.runtimeconfig.json
+C:\Users\drago\source\repos\TaskManagement\bin\Release\net10.0\TaskManagement.dll
+C:\Users\drago\source\repos\TaskManagement\bin\Release\net10.0\TaskManagement.pdb
+C:\Users\drago\source\repos\TaskManagement\obj\Release\net10.0\TaskManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\source\repos\TaskManagement\obj\Release\net10.0\TaskManagement.AssemblyInfoInputs.cache
+C:\Users\drago\source\repos\TaskManagement\obj\Release\net10.0\TaskManagement.AssemblyInfo.cs
+C:\Users\drago\source\repos\TaskManagement\obj\Release\net10.0\TaskManagement.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\TaskManagement\obj\Release\net10.0\TaskManagement.dll
+C:\Users\drago\source\repos\TaskManagement\obj\Release\net10.0\refint\TaskManagement.dll
+C:\Users\drago\source\repos\TaskManagement\obj\Release\net10.0\TaskManagement.pdb
+C:\Users\drago\source\repos\TaskManagement\obj\Release\net10.0\TaskManagement.genruntimeconfig.cache
+C:\Users\drago\source\repos\TaskManagement\obj\Release\net10.0\ref\TaskManagement.dll
