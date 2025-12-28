@@ -4,7 +4,7 @@
 3. ▶ 実行
 
 ## 開発環境
-- Visual Studio
+- Visual Studio 2026
 - .NET 10
 - C#
 
